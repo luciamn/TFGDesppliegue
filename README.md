@@ -10,3 +10,6 @@
 * Despues ejecutamos el .jar con el comando **java -jar EstudioDeTatuajes-0.0.1-SNAPSHOT.jar**
 * Nos vamos a internet y ponemos **localhost:9001**
 
+### Para entrar en la parte del administrador
+Usuario = admin
+Contarseña = admin
